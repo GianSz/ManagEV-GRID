@@ -143,7 +143,7 @@ En caso que aparezca que el usuario no tiene permisos sobre la tabla monitoreodb
 Después de haber seguido los pasos anteriores, y haber configurado todo el sistema para que este funcione correctamente, lo que debemos hacer cada que querramos ejecutar el programa es:
 
 1. Activar el entorno virtual de igual manera en que se hizo en el paso 3 de la configuración del entorno virtual. Esto se debe hacer ya que es en este donde tenemos descargados todos los paquetes necesarios para que esta pueda correr de manera correcta.
-2. Ubicarse en la carpeta donde tenemos el repositorio clonado y ejecutar `py [app.py](http://app.py)`
+2. Ubicarse en la carpeta donde tenemos el repositorio clonado y ejecutar `py app.py`
 
 ## 5. Notas finales
 
